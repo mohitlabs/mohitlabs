@@ -1,4 +1,4 @@
-[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*g__jiesLRIfCRefVG69Pfw.gif&f=1&nofb=1&ipt=dadaaca63d89321b8e8b030242ce2dac1a4880853a1e6889de6f1b13d439a92d&ipo=images)](https://mohitlabs.github.io/site/)
+[![MasterHead](https://miro.medium.com/max/1400/1*g__jiesLRIfCRefVG69Pfw.gif)](https://mohitlabs.github.io/site)
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
 <h3 align="center">A passionate AI Researcher from India</h3>
 <img align="right" alt="Researchers" width="400" src="https://i.pinimg.com/originals/9a/e0/aa/9ae0aa2ff25aa43147538ac2a9f3137f.gif">
