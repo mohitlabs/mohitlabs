@@ -1,5 +1,7 @@
+[![MasterHead]()](https://mohitlabs.github.io/site/)
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
 <h3 align="center">A passionate AI Researcher from India</h3>
+<img align="right" alt="Researchers" width="400" src="https://www.pinterest.co.kr/pin/464926361513101100/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitlabs&label=Profile%20views&color=0e75b6&style=flat" alt="mohitlabs" /> </p>
 
