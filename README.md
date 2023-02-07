@@ -3,7 +3,7 @@
 <h3 align="center">A passionate AI Researcher from India</h3>
 <img align="right" alt="Researchers" width="400" src="https://i.pinimg.com/originals/9a/e0/aa/9ae0aa2ff25aa43147538ac2a9f3137f.gif">
 
-<p align="left"> <img src="./https://komarev.com/ghpvc/?username=mohitlabs&label=Profile%20views&color=0e75b6&style=flat" alt="mohitlabs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitlabs&label=Profile%20views&color=0e75b6&style=flat" alt="mohitlabs" /> </p>
 
 - 🔭 I’m currently working on [AssistantNyra](https://github.com/mohitlabs/AssistantNyra)
 
