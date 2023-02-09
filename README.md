@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitlabs&label=Profile%20views&color=0e75b6&style=flat" alt="mohitlabs" /> </p>
 
-- 🔭 I’m currently working on [AssistantNyra](https://github.com/mohitlabs/AssistantNyra)
+- 🔭 I’m currently working on [AssistantNyraServer](https://github.com/mohitlabs/AssistantNyraServer) & [AssistantNyraClient](https://github.com/mohitlabs/AssistantNyraClient)
 
 - 🌱 I’m currently learning **TensorFlow, PyTorch, ScikitLearn & NLTK**
 
-- 💬 Ask me about **Microcontrollers, Embedded C, Electronic Systems, Mathematical Transformations, Neural Networks & Android**
+- 💬 Ask me about **Android, Microcontrollers, Embedded C, Electronic Systems, Mathematical Transformations & Neural Networks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
