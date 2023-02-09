@@ -1,8 +1,8 @@
-[![MasterHead](https://github.com/mohitlabs/mohitlabs/blob/master/images/Researchers.GIF)](https://mohitlabs.github.io/site)
-![SnakeAnimation](https://github.com/mohitlabs/mohitlabs/blob/output/github-contribution-grid-snake.SVG)
+[![MasterHead](https://raw.githubusercontent.com/mohitlabs/mohitlabs/master/images/Researchers.GIF)](https://mohitlabs.github.io/site)
+![SnakeAnimation](https://raw.githubusercontent.com/mohitlabs/mohitlabs/output/github-contribution-grid-snake.SVG)
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
 <h3 align="center">A passionate AI Researcher from India</h3>
-<img align="right" alt="Researchers" width="400" src="https://github.com/mohitlabs/mohitlabs/blob/master/images/DataScience.GIF">
+<img align="right" alt="Researchers" width="400" src="https://raw.githubusercontent.com/mohitlabs/mohitlabs/master/images/DataScience.GIF">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitlabs&label=Profile%20views&color=0e75b6&style=flat" alt="mohitlabs" /> </p>
 
