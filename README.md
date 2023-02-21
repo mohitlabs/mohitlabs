@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/mohitlabs/mohitlabs/master/images/DataScience.GIF)](https://mohitlabs.github.io/site)
-![SnakeAnimation](https://raw.githubusercontent.com/mohitlabs/mohitlabs/output/github-contribution-grid-snake.SVG)
+![SnakeAnimation](https://raw.githubusercontent.com/mohitlabs/mohitlabs/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
 <h3 align="center">A passionate AI Researcher from India</h3>
 <img align="right" alt="Researchers" width="400" src="https://raw.githubusercontent.com/mohitlabs/mohitlabs/master/images/Researchers.GIF">
