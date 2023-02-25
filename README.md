@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitlabs&label=Profile%20views&color=0e75b6&style=flat" alt="mohitlabs" /> </p>
 
-- 🔭 I’m currently working on [AssistantNyraServer](https://github.com/mohitlabs/AssistantNyraServer) & [AssistantNyraClient](https://github.com/mohitlabs/AssistantNyraClient)
+- 🔭 I’m currently working on [EmotionallyIntelligentUnit](https://github.com/mohitlabs/EmotionallyIntelligentUnit)
 
 - 🌱 I’m currently learning **TensorFlow, PyTorch, ScikitLearn & NLTK**
 
@@ -14,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  mohitsingh5.ms@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
