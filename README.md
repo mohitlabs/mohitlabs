@@ -1,16 +1,16 @@
 [![MasterHead](https://raw.githubusercontent.com/mohitlabs/mohitlabs/master/images/DataScience.GIF)](https://mohitlabs.github.io/site)
 ![SnakeAnimation](https://raw.githubusercontent.com/mohitlabs/mohitlabs/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
-<h3 align="center">A passionate AI Researcher from India</h3>
+<h3 align="center">Electronics Engineer, Programmer & Researcher from India</h3>
 <img align="right" alt="Researchers" width="400" src="https://raw.githubusercontent.com/mohitlabs/mohitlabs/master/images/Researchers.GIF">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitlabs&label=Profile%20views&color=0e75b6&style=flat" alt="mohitlabs" /> </p>
 
-- 🔭 I’m currently working on [EmotionallyIntelligentUnit](https://github.com/mohitlabs/EmotionallyIntelligentUnit)
+- 🔭 I’m currently working on [A Low Latency Digital Filter using RNN](https://github.com/mohitlabs/Research)
 
 - 🌱 I’m currently learning **TensorFlow, PyTorch, ScikitLearn & NLTK**
 
-- 💬 Ask me about **Android, Microcontrollers, Embedded C, Electronic Systems, Mathematical Transformations & Neural Networks**
+- 💬 Ask me about **Android, Microcontrollers, Embedded C, Electronic Systems, Mathematics & Neural Networks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
